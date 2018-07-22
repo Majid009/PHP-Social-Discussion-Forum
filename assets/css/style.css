@@ -1,0 +1,22 @@
+
+.main-container{
+  margin-top: 50px;
+}
+.form_title{
+  text-align: center;
+}
+
+.main_content{
+  border-left: 1px solid #f4f4f4 ;
+}
+question_title{
+  margin-bottom: 5px;
+}
+.question_meta{
+  background: #f4f4f4;
+  padding: 5px;
+}
+
+.question_body{
+  text-align: justify;
+}
